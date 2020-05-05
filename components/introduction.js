@@ -31,7 +31,7 @@ class Introduction extends Component {
     return (
       <div
         style={{
-          width: "100%",
+          width: "100vw",
           display: "flex",
           flexDirection: "column",
           alignItems: "center"
@@ -57,7 +57,7 @@ class Introduction extends Component {
 
         <div
           style={{
-            width: "100%",
+            width: "100vw",
             backgroundColor: "#1e5875"
           }}
         >

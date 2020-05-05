@@ -80,7 +80,7 @@ class RecipientsIntroduction extends Component {
           </div>
 
           <iframe
-            style={{ width: 450, height: 225 }}
+            style={{ width: "90vw", height: "45vw" }}
             src="https://www.youtube.com/embed/MRWRWdmcj7k"
             frameborder="0"
             allowFullScreen
